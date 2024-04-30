@@ -62,7 +62,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Assets\Code\CamController.cs" />
-    <Compile Include="Assets\Code\heroAction.cs" />
+    <Compile Include="Assets\Code\HeroAction.cs" />
     <Compile Include="Assets\Code\GetItems.cs" />
   </ItemGroup>
   <ItemGroup>

@@ -390,7 +390,7 @@
 -analyzer:"E:/Unity HUB/Unity Editor/2023.2.19f1c1/Editor/Data/Tools/Unity.SourceGenerators/Unity.UIToolkit.SourceGenerator.dll"
 "Assets/Code/CamController.cs"
 "Assets/Code/GetItems.cs"
-"Assets/Code/heroAction.cs"
+"Assets/Code/HeroAction.cs"
 -langversion:9.0
 
 /deterministic
