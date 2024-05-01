@@ -61,8 +61,7 @@
     <Analyzer Include="E:\Unity HUB\Unity Editor\2023.2.19f1c1\Editor\Data\Tools\Unity.SourceGenerators\Unity.UIToolkit.SourceGenerator.dll" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Assets\Code\CamController.cs" />
-    <Compile Include="Assets\Code\HeroAction.cs" />
+    <Compile Include="Assets\Code\HeroMove.cs" />
     <Compile Include="Assets\Code\GetItems.cs" />
   </ItemGroup>
   <ItemGroup>
