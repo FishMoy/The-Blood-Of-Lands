@@ -3,8 +3,12 @@
   "WorkspaceRootPath": "D:\\Unity Project\\The-Blood-Of-Lands\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{1524AE18-E236-380F-20A6-7C62A2B94C22}|Assembly-CSharp.csproj|d:\\unity project\\the-blood-of-lands\\assets\\code\\heromove.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{1524AE18-E236-380F-20A6-7C62A2B94C22}|Assembly-CSharp.csproj|D:\\Unity Project\\The-Blood-Of-Lands\\assets\\code\\heromove.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1524AE18-E236-380F-20A6-7C62A2B94C22}|Assembly-CSharp.csproj|solutionrelative:assets\\code\\heromove.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1524AE18-E236-380F-20A6-7C62A2B94C22}|Assembly-CSharp.csproj|d:\\unity project\\the-blood-of-lands\\assets\\code\\getitems.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1524AE18-E236-380F-20A6-7C62A2B94C22}|Assembly-CSharp.csproj|solutionrelative:assets\\code\\getitems.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,8 +18,21 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "GetItems.cs",
+              "DocumentMoniker": "D:\\Unity Project\\The-Blood-Of-Lands\\Assets\\Code\\GetItems.cs",
+              "RelativeDocumentMoniker": "Assets\\Code\\GetItems.cs",
+              "ToolTip": "D:\\Unity Project\\The-Blood-Of-Lands\\Assets\\Code\\GetItems.cs",
+              "RelativeToolTip": "Assets\\Code\\GetItems.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-02T06:51:34.425Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
@@ -24,7 +41,7 @@
               "RelativeDocumentMoniker": "Assets\\Code\\HeroMove.cs",
               "ToolTip": "D:\\Unity Project\\The-Blood-Of-Lands\\Assets\\Code\\HeroMove.cs",
               "RelativeToolTip": "Assets\\Code\\HeroMove.cs",
-              "ViewState": "AQIAADoAAAAAAAAAAAAkwEEAAAABAAAA",
+              "ViewState": "AQIAACAAAAAAAAAAAAAgwEIAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-05-01T13:53:11.257Z",
               "EditorCaption": ""
