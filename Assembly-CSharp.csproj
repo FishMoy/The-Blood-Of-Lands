@@ -62,6 +62,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Assets\Code\HeroMove.cs" />
+    <Compile Include="Assets\Code\HeroAttacks.cs" />
     <Compile Include="Assets\Code\GetItems.cs" />
   </ItemGroup>
   <ItemGroup>

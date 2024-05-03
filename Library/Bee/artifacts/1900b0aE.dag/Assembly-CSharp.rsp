@@ -389,6 +389,7 @@
 -analyzer:"E:/Unity HUB/Unity Editor/2023.2.19f1c1/Editor/Data/Tools/Unity.SourceGenerators/Unity.SourceGenerators.dll"
 -analyzer:"E:/Unity HUB/Unity Editor/2023.2.19f1c1/Editor/Data/Tools/Unity.SourceGenerators/Unity.UIToolkit.SourceGenerator.dll"
 "Assets/Code/GetItems.cs"
+"Assets/Code/HeroAttacks.cs"
 "Assets/Code/HeroMove.cs"
 -langversion:9.0
 
